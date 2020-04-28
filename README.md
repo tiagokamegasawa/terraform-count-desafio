@@ -24,4 +24,4 @@ Resolução dos itens:
 * Utilizando a variável ${terraform.workspace} para compor o nome do ELB e SecurityGroup.
 
 6- Crie um ambiente de dev
-* Ambiente foi criado e a pasta terraform.tfstate.d/ com o ambiente dev.
+* Ambiente foi criado e a pasta terraform.tfstate.d/ foi criada junto com o ambiente dev.
